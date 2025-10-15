@@ -1,0 +1,106 @@
+[
+    {
+        "product_name": "Hardware-Sniffer-CLI.exe",
+        "id": 319461506
+    },
+    {
+        "product_name": "Lilu",
+        "id": 232062718
+    },
+    {
+        "product_name": "VirtualSMC",
+        "id": 232065486
+    },
+    {
+        "product_name": "SMCRadeonSensors",
+        "id": 921628871
+    },
+    {
+        "product_name": "WhateverGreen",
+        "id": 248979881
+    },
+    {
+        "product_name": "AppleALC",
+        "id": 232063254
+    },
+    {
+        "product_name": "AirportBrcmFixup",
+        "id": 232062641
+    },
+    {
+        "product_name": "itlwm",
+        "id": 400170906
+    },
+    {
+        "product_name": "BrcmPatchRAM",
+        "id": 232063338
+    },
+    {
+        "product_name": "IntelBluetoothFirmware",
+        "id": 176453430
+    },
+    {
+        "product_name": "LucyRTL8125Ethernet",
+        "id": 339221612
+    },
+    {
+        "product_name": "RealtekRTL8111",
+        "id": 130015132
+    },
+    {
+        "product_name": "GenericUSBXHCI",
+        "id": 648501608
+    },
+    {
+        "product_name": "XHCI-unsupported",
+        "id": 185465401
+    },
+    {
+        "product_name": "YogaSMC",
+        "id": 808581220
+    },
+    {
+        "product_name": "CtlnaAHCIPort",
+        "id": 934285327
+    },
+    {
+        "product_name": "NVMeFix",
+        "id": 232064609
+    },
+    {
+        "product_name": "ForgedInvariant",
+        "id": 442577252
+    },
+    {
+        "product_name": "AMFIPass",
+        "id": 926491527
+    },
+    {
+        "product_name": "AppleMCEReporterDisabler",
+        "id": 738162736
+    },
+    {
+        "product_name": "BrightnessKeys",
+        "id": 162368093
+    },
+    {
+        "product_name": "FeatureUnlock",
+        "id": 232065021
+    },
+    {
+        "product_name": "HibernationFixup",
+        "id": 232064457
+    },
+    {
+        "product_name": "RestrictEvents",
+        "id": 232065220
+    },
+    {
+        "product_name": "RTCMemoryFixup",
+        "id": 148119307
+    },
+    {
+        "product_name": "OpenCorePkg",
+        "id": 252998517
+    }
+]

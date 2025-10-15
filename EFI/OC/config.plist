@@ -406,6 +406,15 @@
 				AQ==
 				</data>
 			</dict>
+			<!-- SECOND GPU PLACEHOLDER - REPLACE WITH ACTUAL PCI PATH -->
+			<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>built-in</key>
+				<data>
+				AQ==
+				</data>
+				<!-- Add GPU-specific properties here based on GPU type -->
+			</dict>
 			<key>PciRoot(0x0)/Pci(0x8,0x1)/Pci(0x0,0x6)</key>
 			<dict>
 				<key>layout-id</key>
